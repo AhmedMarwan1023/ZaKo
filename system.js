@@ -4910,4 +4910,4 @@ message.channel.createWebhook(message.author.username, message.author.avatarURL)
 });
 
 
-client.login("NTIyNzc0NTgyNjQyMzQzOTQ2.DvQoXg.r8fd8Thb5dnKhFAZuI2DhLkfLXY");
+client.login("BOT_TOKEN");
